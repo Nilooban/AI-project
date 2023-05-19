@@ -4,7 +4,7 @@ In this repository, you will find the code and files that I have created while f
 
 Overall, this GitHub repository serves as a reflection of my journey as a React developer and the progress I have made through self-guided learning. I hope that it can be a helpful resource for others who are also looking to learn React.js through online tutorials and hands-on practice.
 
-Live Demo 👉 [My Portfolio](https://ai-project-nilooban.vercel.app/) 
+Live Demo 👉 [AI-project](https://ai-project-nilooban.vercel.app/) 
 
 # Contributing
 Contributions are welcome! If you find any bugs or want to suggest new features, please open an issue or submit a pull request.
