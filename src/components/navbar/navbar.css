@@ -64,7 +64,7 @@ flex-direction: row;
 
 .gpt3__navbar-menu {
     margin-left: 1rem;
-    display: flex;
+    display: none;
     position: relative;
 }
 
@@ -101,16 +101,22 @@ flex-direction: row;
     .gpt3__navbar-links_container {
         display: none;
     } 
-    
     .gpt3__navbar-menu {
         display: flex;
     }
+    
+    
 }
 
 @media screen and (max-width: 700px) {
     .gpt3__navbar {
        padding: 2rem 4rem;
     } 
+
+    .gpt3__navbar-menu {
+        display: flex;
+    }
+    
 }
 
 @media screen and (max-width: 550px) {
@@ -120,6 +126,10 @@ flex-direction: row;
 
     .gpt3__navbar-sign {
         display: none;
+    }
+
+    .gpt3__navbar-menu {
+        display: flex;
     }
     
     .gpt3__navbar-menu_container {
